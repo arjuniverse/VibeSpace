@@ -4,30 +4,6 @@
 
 ---
 
-## 🌟 Overview
-
-🎶 **VibeSpace** is a modern music management app that helps you organize your songs based on **mood and vibe**.
-
-💡 Built with a focus on:
-- Beautiful UI 🎨  
-- Smooth experience ⚡  
-- Simple music organization 🎵  
-
----
-
-## 🚀 Features
-
-### 🌙 Premium Dark Theme
-- Apple Music-inspired UI  
-- Smooth gradients & elegant typography  
-- Rounded cards & modern layout  
-
----
-
-### 🎵 Song Management
-- ➕ Add songs  
-- ✏️ Edit details  
-- ❌ Delete songs  
 
 Store:
 - Name  
